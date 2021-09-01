@@ -1,0 +1,12 @@
+body {
+  background-color: #e1dcc5;
+}
+.book-search-list {
+  padding: 0 8pc;
+}
+img {
+  max-width: 100%;
+}
+.book-image img {
+  width: 100%;
+}
